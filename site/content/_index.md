@@ -3,7 +3,7 @@ title: Creative Insperation For Your Every Aspiration
 subtitle: >-
   Stuck? Writers block? Artistic Blanks? Musical Malfunction? This is your
   Creative Hub, Welcome to the Create Cabin.
-image: /img/home-jumbotron.jpg
+image: img/log-cabin-1886620.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
